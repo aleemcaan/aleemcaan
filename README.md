@@ -12,9 +12,13 @@
 
 ### 🛠️ About Me
 🔹 **Computer Systems Engineer** with **4+ years** of experience in **Odoo, Django, and full-stack Python development**.
+
 🔹 Passionate about **ERP customization, web development, automation, and scripting**.
+
 🔹 Expert in **Odoo POS & OWL (Odoo Web Library)**, API integrations, and data visualization.
+
 🔹 Strong background in **Docker, Nginx, PostgreSQL, and Linux server deployment**.
+
 🔹 **Freelancer on Upwork** 💻, serving global clients with tailored ERP solutions.
 
 ---
