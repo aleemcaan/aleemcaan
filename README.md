@@ -28,8 +28,8 @@
 - **Backend:** Python 🐍, Django 🚀, Odoo 🏭
 - **Frontend:** React.js ⚛️, JavaScript, Bootstrap 🎨
 - **Databases:** PostgreSQL 🐘, MySQL
-- **DevOps:** Docker 🐳, Nginx, AWS ☁️
-- **Tools:** GitHub, GitLab, VS Code, PyCharm, Jupyter Notebook 📒
+- **DevOps:** Docker 🐳, Nginx
+- **Tools:** GitHub, VS Code, PyCharm, Jupyter Notebook 📒
 
 ---
 
